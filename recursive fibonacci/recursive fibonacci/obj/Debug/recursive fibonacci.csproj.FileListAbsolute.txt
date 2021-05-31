@@ -1,0 +1,7 @@
+C:\Users\Stelios\source\repos\recursive fibonacci\recursive fibonacci\bin\Debug\recursive fibonacci.exe.config
+C:\Users\Stelios\source\repos\recursive fibonacci\recursive fibonacci\bin\Debug\recursive fibonacci.exe
+C:\Users\Stelios\source\repos\recursive fibonacci\recursive fibonacci\bin\Debug\recursive fibonacci.pdb
+C:\Users\Stelios\source\repos\recursive fibonacci\recursive fibonacci\obj\Debug\recursive fibonacci.csprojAssemblyReference.cache
+C:\Users\Stelios\source\repos\recursive fibonacci\recursive fibonacci\obj\Debug\recursive fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Stelios\source\repos\recursive fibonacci\recursive fibonacci\obj\Debug\recursive fibonacci.exe
+C:\Users\Stelios\source\repos\recursive fibonacci\recursive fibonacci\obj\Debug\recursive fibonacci.pdb
